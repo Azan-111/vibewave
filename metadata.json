@@ -1,0 +1,6 @@
+{
+  "name": "Viber AI",
+  "description": "An AI-powered assistant with Google Authentication, user account management, multi-modal chat, and persistent data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
